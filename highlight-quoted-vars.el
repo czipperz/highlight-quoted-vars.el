@@ -35,7 +35,7 @@
 ;;     'Any $Vars will NOT be highlighted in $single quotes'
 ;;
 ;; To use this software, add a variation of the following code to one
-;; of your init files (`$HOME/.emacs.d/init.l', or `$HOME/.emacs'):
+;; of your init files (`$HOME/.emacs.d/init.el', or `$HOME/.emacs'):
 ;;     (add-hook 'sh-mode-hook 'sh-script-extra-font-lock-activate)
 
 ;;; Code:
